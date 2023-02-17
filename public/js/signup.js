@@ -1,0 +1,4 @@
+const signupFormHandler = async (event) => {
+
+};
+
